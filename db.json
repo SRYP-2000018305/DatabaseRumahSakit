@@ -14,8 +14,8 @@
     {"IDakun": "12","username": "SRYP12", "password": "23abcd"},
   ],
   "dokter": [
-    {"NoDokter": "1238", "nama": "Sumanto", "spesialis": "Gizi"}
-    {"NoDokter": "238", "nama": "Chuck Norris", "spesialis": "Tulang"}
-    {"NoDokter": "28", "nama": "Waduh Man", "spesialis": "Psikologi"}
+    {"NoDokter": "1238", "nama": "Sumanto", "spesialis": "Gizi"},
+    {"NoDokter": "238", "nama": "Chuck Norris", "spesialis": "Tulang"},
+    {"NoDokter": "28", "nama": "Waduh Man", "spesialis": "Psikologi"},
   ]
 }
