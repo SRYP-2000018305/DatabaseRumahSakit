@@ -1,8 +1,21 @@
 {
   "account": [
-    {"username": "SRYP", "password": "123abcd"},
-    {"username": "USER2", "password": "asal"},
-    {"username": "USER3", "password": "asalasalan"},
-    {"username": "TESTINGEDIT", "password": "bebas"}
+    {"IDakun": "1","username": "SRYP1", "password": "123"},
+    {"IDakun": "2","username": "SRYP2", "password": "abcd"},
+    {"IDakun": "3","username": "SRYP3", "password": "1cd"},
+    {"IDakun": "4","username": "SRYP4", "password": "123a"},
+    {"IDakun": "5","username": "SRYP5", "password": "12bcd"},
+    {"IDakun": "6","username": "SRYP6", "password": "13acd"},
+    {"IDakun": "7","username": "SRYP7", "password": "13ab"},
+    {"IDakun": "8","username": "SRYP8", "password": "123abcd"},
+    {"IDakun": "9","username": "SRYP9", "password": "1acd"},
+    {"IDakun": "10","username": "SRYP10", "password": "23abc"},
+    {"IDakun": "11","username": "SRYP11", "password": "1abd"},
+    {"IDakun": "12","username": "SRYP12", "password": "23abcd"},
+  ],
+  "dokter": [
+    {"NoDokter": "1238", "nama": "Sumanto", "spesialis": "Gizi"}
+    {"NoDokter": "238", "nama": "Chuck Norris", "spesialis": "Tulang"}
+    {"NoDokter": "28", "nama": "Waduh Man", "spesialis": "Psikologi"}
   ]
 }
